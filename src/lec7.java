@@ -15,8 +15,8 @@ public class lec7 {
 //            Car s2 = new Car(5);
 //            Car s3 = new Car(56,12);
 //        }
-    class Parent{
-        int x= 10;
-        System.out.println("");
-}
+//    class Parent{
+//        int x= 10;
+//        System.out.println("heyy");
+//}
 }
